@@ -1,40 +1,47 @@
 <div align="center">
 
-<img src="./profile-dashboard.png" width="100%" alt="Vijay Sharma J - AI & Data Science Developer">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:0A0A0A,100:16120A&height=220&section=header&text=VIJAY%20SHARMA%20J&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=AI%20%26%20DATA%20SCIENCE%20DEVELOPER&descSize=16&descColor=D4AF37&descAlignY=62&animation=fadeIn" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+intelligent+systems.;Exploring+AI+%2F+ML.;Turning+ideas+into+working+software.;Learning+by+building." />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Exploring+AI+%7C+Data+%7C+Web.;Learn+%E2%86%92+Build+%E2%86%92+Improve." alt="Typing animation">
-
-<br><br>
-
-<b>AI & DATA SCIENCE</b>
-&nbsp; • &nbsp;
-<b>DEVELOPER</b>
-&nbsp; • &nbsp;
-<b>PROBLEM SOLVER</b>
+`AI & DATA SCIENCE`　•　`DEVELOPER`　•　`PROBLEM SOLVER`
 
 </div>
 
 ---
 
-## ◇ ABOUT ME
+<div align="center">
 
-I'm an **AI & Data Science student and developer** interested in turning ideas into practical software.
+### ◇ SYSTEM PROFILE
 
-- 🧠 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Data Analysis
-- 💻 Software & Web Development
-- 🚀 Hackathons & Prototyping
-- 🌱 Learning by building
+| **IDENTITY** | **STATUS** | **FOCUS** |
+|:---:|:---:|:---:|
+| AI & DS Student | 🟢 Learning | AI / ML |
+| Developer | ⚡ Building | Data Science |
+| Problem Solver | ◉ Active | Software |
+
+</div>
 
 ---
 
-## ✦ CURRENTLY
+## ┌─ `01` ABOUT ME
+
+> **I build. I experiment. I learn. I improve.**
+
+I'm an **AI & Data Science student** interested in developing practical software and exploring how artificial intelligence can solve real-world problems.
 
 ```text
-[01] Exploring AI / ML
-[02] Building web applications
-[03] Working on hackathon projects
-[04] Improving DSA & Java
-[05] Learning by building
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   ◇ Artificial Intelligence                         │
+│   ◇ Machine Learning                                │
+│   ◇ Data Science                                    │
+│   ◇ Software Development                            │
+│   ◇ Web Applications                                │
+│   ◇ Hackathons & Innovation                         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
