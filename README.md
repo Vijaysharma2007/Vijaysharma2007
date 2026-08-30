@@ -1,91 +1,39 @@
 <div align="center">
 
-<img src="./profile-dashboard.png" width="100%" alt="Vijay Sharma J - AI & Data Science Developer"/>
+<img src="./profile-dashboard.png" width="100%" alt="Vijay Sharma J - AI & Data Science Developer">
 
-<br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Exploring+AI+%7C+Data+%7C+Web.;Learn+%E2%86%92+Build+%E2%86%92+Improve." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=700&lines=Building+intelligent+systems.;Exploring+AI+%7C+Data+%7C+Web.;Learn+%E2%86%92+Build+%E2%86%92+Improve." alt="Typing animation">
+
+<br><br>
+
+<b>AI & DATA SCIENCE</b> &nbsp; • &nbsp; <b>DEVELOPER</b> &nbsp; • &nbsp; <b>PROBLEM SOLVER</b>
 
 </div>
 
 ---
 
-<div align="center">
+## ◇ ABOUT ME
 
-`AI & DATA SCIENCE` &nbsp;•&nbsp; `DEVELOPER` &nbsp;•&nbsp; `PROBLEM SOLVER`
+I'm an **AI & Data Science student and developer** interested in turning ideas into practical software.
 
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◇ ABOUT ME
-
-I'm an **AI & Data Science student and developer** who enjoys turning ideas into practical software.
-
-- 🧠 AI / Machine Learning
+- 🧠 Artificial Intelligence & Machine Learning
 - 📊 Data Science
 - 💻 Software & Web Development
 - 🚀 Hackathons & Prototyping
 - 🌱 Continuous learning
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-### ✦ CURRENTLY
+## ✦ CURRENTLY
 
 ```text
 [01] Exploring AI / ML
 [02] Building web applications
-[03] Working on hackathon ideas
+[03] Working on hackathon projects
 [04] Improving DSA & Java
 [05] Learning by building
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ◈ FEATURED PROJECTS
-
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### `01` AI.edu
-
-AI-focused educational platform concept.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript` `Java`
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02` SIH LAB
-
-Experimental AI solutions for real-world problems and hackathons.
-
-**Stack**
-
-`Python` `AI/ML` `Web`
-
-</td>
-
-<td width="33%" valign="top">
-
 ### `03` DATA LAB
 
 Data analysis and intelligent-data experiments.
@@ -99,6 +47,7 @@ Data analysis and intelligent-data experiments.
 </table>
 
 ---
+![Uploading 39103.png…]()
 
 <div align="center">
 
